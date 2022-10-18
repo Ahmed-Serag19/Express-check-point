@@ -1,0 +1,39 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.navbar ul {
+  display: flex;
+  list-style-type: none;
+}
+
+.navbar ul li {
+  margin: 10px;
+}
+
+.navbar ul li a {
+  color: brown;
+  text-decoration: none;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#main {
+  text-align: center;
+}
+
+#services {
+  text-align: center;
+}
+
+#contact {
+  text-align: center;
+}
+
+#vacation {
+  text-align: center;
+}
